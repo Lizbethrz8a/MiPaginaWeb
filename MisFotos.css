@@ -1,0 +1,24 @@
+.img{
+    display: block;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    align-self: center;
+}
+
+header{
+    border: 1px, groove;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: indianred;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    text-align: center;
+}
+
+figure{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-self: start;
+}
